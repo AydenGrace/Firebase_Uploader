@@ -2,6 +2,7 @@ COPYRIGHT: CRABBÉ Pierre-Alexandre
 
 LINKEDIN: https://www.linkedin.com/in/pierre-alexandre-crabbé-679058182/
 
+This React Component is used to upload some files on an firebase storage. It can upload images, videos or documents. If it's a image, it will be compressed and converted to WebP to optimize your project.
 
 VERSION : v1.0.0
 
