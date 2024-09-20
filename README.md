@@ -1,8 +1,10 @@
 COPYRIGHT: CRABBÉ Pierre-Alexandre
+
 LINKEDIN: https://www.linkedin.com/in/pierre-alexandre-crabbé-679058182/
 
 
 VERSION : v1.0.0
+
 DEPENDENCIES :
 - browser-image-compression
 - firebase
